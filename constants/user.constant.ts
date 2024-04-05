@@ -1,0 +1,32 @@
+export const User3DSoftware: { id: string; title: string }[] = [
+  { id: 'cinema_4d', title: 'Cinema 4D' },
+  { id: '3d_reconstruction', title: '3D Reconstruction' },
+  { id: '3ds_max', title: '3ds Max' },
+  { id: 'cubik', title: 'Cubik' },
+  { id: 'archicad', title: 'ArchiCAD' },
+  { id: 'photogrammetry', title: 'Photogrammetry' },
+  { id: 'revit', title: 'Revit' },
+  { id: 'lightwave_3d', title: 'Lightwave 3D' },
+  { id: 'minecraft', title: 'Minecraft' },
+  { id: 'blender', title: 'Blender' },
+  { id: 'ironcad', title: 'IronCAD' },
+  { id: 'maya', title: 'Maya' },
+  { id: 'inventor', title: 'Inventor' },
+  { id: 'unity', title: 'Unity' },
+  { id: 'unreal', title: 'Unreal' },
+  { id: 'sketchup', title: 'SketchUp' },
+  { id: 'vray', title: 'Vray' },
+  { id: 'softimage', title: 'Softimage' },
+  { id: 'solidworks', title: 'SolidWorks' },
+  { id: 'photoshop', title: 'Photoshop' },
+  { id: 'zbrush', title: 'ZBrush' },
+];
+
+export const UserSkill: { id: string; title: string }[] = [
+  { id: 'animated', title: 'Animated' },
+  { id: 'uv_mapping', title: 'UV Mapping' },
+  { id: 'rendering', title: 'Rendering' },
+  { id: 'texturing', title: 'Texturing' },
+  { id: 'rigged', title: 'Rigged' },
+  { id: 'low_poly_modeling', title: 'Low-poly Modeling' },
+];
